@@ -1,1 +1,1 @@
-# Lirik_Lagu-
+# Lirik lagu berjalan di python. Oleh Sammmm
